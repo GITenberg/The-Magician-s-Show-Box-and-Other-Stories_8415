@@ -1,0 +1,41 @@
+_repo: The-Magician-s-Show-Box-and-Other-Stories_8415
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Child, Lydia Maria
+    aliases:
+    - Francis, Lydia Maria
+    - Child, L. Maria (Lydia Maria)
+    - Child, Lydia Maria Francis
+    birthdate: 1802
+    deathdate: 1880
+    gutenberg_agent_id: '2732'
+    url: http://www.gutenberg.org/2009/agents/2732
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
+  - agent_name: Tappan, Caroline Sturgis
+    aliases:
+    - Tappan, Carrie
+    - Sturgis, Caroline
+    birthdate: 1819
+    deathdate: 1888
+    gutenberg_agent_id: '38312'
+    url: http://www.gutenberg.org/2009/agents/38312
+description: The magician's show box.-The violet flame.-Floribel.-The Lady Intelletta.-Venus's
+  dove.-The gala day.-Earning one's own living.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The magician's show box -- The violet flame -- Floribel -- The Lady
+  Intelletta -- Venus's dove -- The gala day -- Earning one's own living.
+title: The Magician's Show Box, and Other Stories
+url: http://www.gutenberg.org/ebooks/8415
