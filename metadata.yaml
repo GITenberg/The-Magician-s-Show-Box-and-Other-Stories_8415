@@ -1,5 +1,8 @@
 _repo: The-Magician-s-Show-Box-and-Other-Stories_8415
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Child, Lydia Maria
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38312
 description: The magician's show box.-The violet flame.-Floribel.-The Lady Intelletta.-Venus's
   dove.-The gala day.-Earning one's own living.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8415#The-Magician-s-Show-Box-and-Other-Stories
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
